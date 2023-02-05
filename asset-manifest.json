@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.dd33a277.css",
+    "main.js": "/myportfolio/static/js/main.27883436.js",
+    "static/media/python.png": "/myportfolio/static/media/python.a9873a9701f1afdb1703.png",
+    "static/media/c.png": "/myportfolio/static/media/c.e53ae691d554946d4e3b.png",
+    "static/media/mybackground.webp": "/myportfolio/static/media/mybackground.c78e9c7a54e96db48d5e.webp",
+    "static/media/mypic.jpg": "/myportfolio/static/media/mypic.040fb19fbd0c6443cfc0.jpg",
+    "static/media/css.png": "/myportfolio/static/media/css.8a182087615a3845ebac.png",
+    "static/media/cross.png": "/myportfolio/static/media/cross.ce8c7322a94a12f99bf9.png",
+    "static/media/react.png": "/myportfolio/static/media/react.6c58ec1e124cb63ae64d.png",
+    "static/media/java.jpg": "/myportfolio/static/media/java.b8c73df50539d5ac2301.jpg",
+    "static/media/html.png": "/myportfolio/static/media/html.eebc3fbfbde4b2abd9db.png",
+    "static/media/adobe.png": "/myportfolio/static/media/adobe.3dbe8888676cbb7d2563.png",
+    "static/media/cpp.png": "/myportfolio/static/media/cpp.1db7acec400505c5cd8d.png",
+    "static/media/node.jfif": "/myportfolio/static/media/node.7aecbdb356e56798e728.jfif",
+    "index.html": "/myportfolio/index.html",
+    "main.dd33a277.css.map": "/myportfolio/static/css/main.dd33a277.css.map",
+    "main.27883436.js.map": "/myportfolio/static/js/main.27883436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd33a277.css",
+    "static/js/main.27883436.js"
+  ]
+}
