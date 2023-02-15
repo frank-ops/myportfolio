@@ -61,7 +61,7 @@ const AboutMe = ()=>{
             <h3>My projects</h3>
                 <div className='content'>
                 <div className='roles'>
-                            <h3>Thunder-AI ( <a href="https://github.com/frank-ops/thunder">Github Link</a> )</h3>
+                            <h3>Thunder-AI ( <a href="https://github.com/frank-ops/thunder">Github Link</a> ) ( <a href="https://thunder-ai.netlify.app/">website Link</a> )</h3>
                             <ul>
                                 <li>Created a web application which generates text to Image </li>
                                 <li>Here the text to image generation was done by the machine learning model by open Ai </li>
