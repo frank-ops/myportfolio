@@ -48,7 +48,7 @@ const AboutMe = ()=>{
                     <div className='content'>
                     <div className='roles'>
                             <ul style={{padding:"0px",marginLeft:"15px",marginTop:"15px"}}>
-                                    <li>Secured 1<sup>st</sup> place in SQL query Competition which organized by Oracle Academy ( <a href="https://drive.google.com/file/d/1_memcDDMZG7ui0Gl6Lw8_9k6yS28O8_j/view?usp=share_link">Certificate</a> )</li>
+                                    <li>Secured 2<sup>nd</sup> place in SQL query Competition which organized by Oracle Academy ( <a href="https://drive.google.com/file/d/1_memcDDMZG7ui0Gl6Lw8_9k6yS28O8_j/view?usp=share_link">Certificate</a> )</li>
                                     <li>Achieved IBM 101 certificate for python ( <a href="https://drive.google.com/file/d/14tQ6HW9Z9a2mzGMNiaj420rMLSBxajNe/view?usp=share_link">Certificate</a> )</li>
                                     <li>Solved 400+ problems in leetcode  ( <a href="https://leetcode.com/franklin12/">Link</a> ).</li>
                                     <li>6 Star problem solving badge in HackerRank ( <a href="https://www.hackerrank.com/thejasfranklin">Link</a> )</li>
