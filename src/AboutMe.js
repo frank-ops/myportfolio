@@ -58,7 +58,7 @@ const AboutMe = ()=>{
                     </div>
             </div>
             <div className='experience'>
-            <h3>My Work Experience</h3>
+            <h3>My projects</h3>
                 <div className='content'>
                 <div className='roles'>
                             <h3>Thunder-AI ( <a href="https://github.com/frank-ops/thunder">Github Link</a> )</h3>
