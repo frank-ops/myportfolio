@@ -63,9 +63,9 @@ const AboutMe = ()=>{
                 <div className='roles'>
                             <h3>Thunder-AI ( <a href="https://github.com/frank-ops/thunder">Github Link</a> ) ( <a href="https://thunder-ai.netlify.app/">website Link</a> )</h3>
                             <ul>
-                                <li>Created a web application which generates text to Image </li>
+                                <li>Created a web application which generates image from text </li>
                                 <li>Here the text to image generation was done by the machine learning model by open Ai </li>
-                                <li>For the front end i have used the react js framework and database i used the mongodb and for backend i have used express js</li>
+                                <li>For the front end i have used the react js framework and for database i used the mongodb and for backend i have used express js</li>
                             </ul>
                     </div>
                     <div className='roles'>
