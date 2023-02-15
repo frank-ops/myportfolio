@@ -58,8 +58,16 @@ const AboutMe = ()=>{
                     </div>
             </div>
             <div className='experience'>
-            <h3>My Work Experience</h3>
+            <h3>My projects</h3>
                 <div className='content'>
+                   <div className='roles'>
+                            <h3>Thunder-AI ( <a href="https://github.com/frank-ops/thunder">Github Link</a> )</h3>
+                            <ul>
+                                <li>Created a web application which generates text to Image </li>
+                                <li>Here the text to image generation was done by the machine learning model by open Ai </li>
+                                <li>For the front end i have used the react js framework and database i used the mongodb and for backend i have used express js</li>
+                            </ul>
+                    </div
                     <div className='roles'>
                             <h3>Netflix clone ( <a href="https://github.com/frank-ops/django">Github Link</a> )</h3>
                             <ul>
